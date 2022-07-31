@@ -1,1 +1,0 @@
-(function($){'use strict';var megaSubMenuToggleButton=function(){var $button=$('.mega-sub-nav-toggle');$button.on('click',function(){$(this).toggleClass('toggled');});};$(function(){megaSubMenuToggleButton();});}).apply(this,[jQuery]);
